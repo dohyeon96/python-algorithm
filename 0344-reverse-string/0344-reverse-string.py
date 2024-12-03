@@ -9,7 +9,6 @@ class Solution:
                     store = s[i]
                     s[i] = s[len(s) - i - 1]
                     s[len(s) - i - 1] = store
-                    store = " "
             print(s)
         else:
             for j in range(len(s)):
@@ -17,7 +16,6 @@ class Solution:
                     store = s[j]
                     s[j] = s[len(s) - j - 1]
                     s[len(s) - j - 1] = store
-                    store = " "
             print(s)
 
         
