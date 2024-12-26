@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dohyeon96/python-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/dohyeon96/python-algorithm/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dohyeon96/python-algorithm/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dohyeon96/python-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/dohyeon96/python-algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/dohyeon96/python-algorithm/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dohyeon96/python-algorithm/tree/master/0344-reverse-string) |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/dohyeon96/python-algorithm/tree/master/0837-most-common-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dohyeon96/python-algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
