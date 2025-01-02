@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dohyeon96/python-algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/dohyeon96/python-algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dohyeon96/python-algorithm/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/dohyeon96/python-algorithm/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dohyeon96/python-algorithm/tree/master/0344-reverse-string) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dohyeon96/python-algorithm/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/dohyeon96/python-algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dohyeon96/python-algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dohyeon96/python-algorithm/tree/master/0049-group-anagrams) |
 | [0837-most-common-word](https://github.com/dohyeon96/python-algorithm/tree/master/0837-most-common-word) |
@@ -30,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dohyeon96/python-algorithm/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dohyeon96/python-algorithm/tree/master/0049-group-anagrams) |
 | [0974-reorder-data-in-log-files](https://github.com/dohyeon96/python-algorithm/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
