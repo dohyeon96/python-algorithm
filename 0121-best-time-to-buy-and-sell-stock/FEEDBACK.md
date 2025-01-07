@@ -6,7 +6,8 @@
 1. 최솟값, 최댓값을 초기화할때
 
   ```python
-   최솟값 = -sys.maxsize, 최댓값 = -sys.maxsize
+   최솟값 = sys.maxsize,
+   최댓값 = -sys.maxsize
   ```
 
   이렇게 해야 어떤 값이든 최솟값, 최댓값이 바로 교체될 수 있다  
