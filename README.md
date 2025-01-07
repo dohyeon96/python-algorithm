@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/dohyeon96/python-algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/dohyeon96/python-algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dohyeon96/python-algorithm/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dohyeon96/python-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/dohyeon96/python-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/dohyeon96/python-algorithm/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/dohyeon96/python-algorithm/tree/master/0837-most-common-word) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dohyeon96/python-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dohyeon96/python-algorithm/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dohyeon96/python-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
