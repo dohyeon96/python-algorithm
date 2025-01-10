@@ -6,7 +6,9 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         # 1st. node.val들을 저장해서 앞, 뒤를 비교하기 위해서 list q를 선언
-        q: List = []
+        # q: List = []
+        # 1st. list 대신 deque 사용하면 양방향 모두 O(1)에 가능
+        q: Deque = collections.deque()
 
         # 2nd. 팰린드롬 판별 전에 head가 비어있는지 확인
         if not head:
@@ -20,6 +22,10 @@ class Solution:
         
         #4th. list 앞, 뒤 요소 비교해서 팰린드롬 판별
         while len(q) > 1:
-            if q.pop(0) != q.pop():
+            # q가 List일때
+            # if q.pop(0) != q.pop(): 
+            
+            # q가 deque일때
+            if q.popleft() != q.pop():
                 return False
         return True
